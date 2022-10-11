@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2CHATCLIENT", "WindowsFormsApp2CHATCLIENT\WindowsFormsApp2CHATCLIENT.csproj", "{550542B7-ECDB-4F29-B5CE-38D56A0605FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550542B7-ECDB-4F29-B5CE-38D56A0605FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550542B7-ECDB-4F29-B5CE-38D56A0605FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550542B7-ECDB-4F29-B5CE-38D56A0605FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550542B7-ECDB-4F29-B5CE-38D56A0605FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4647237E-72F3-448D-91C4-D5E3A9B8AFE8}
+	EndGlobalSection
+EndGlobal
